@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bsm081102@sw-ms.gne.go.kr**
 
-- ⚡ Fun fact **내가 좋아하는 것: 코드 만들기**
+- ⚡ Fun fact **내가 좋아하는 것: 만들기**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
