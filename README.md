@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bae Sungmin</h1>
-<h3 align="center">저는 IT엔지니어가 되고 싶어요</h3>
+<h3 align="center">저는 사람들에게 도움을 주는 IT엔지니어가 되고 싶어요</h3>
 
 - 🔭 I’m currently working on **구산중학교**
 
